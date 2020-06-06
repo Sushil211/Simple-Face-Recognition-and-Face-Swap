@@ -5,6 +5,6 @@ Tools used: OpenCV, haarcascade classifier
 ----------------------------------------------------------
 Model used: KNN classifier
 ----------------------------------------------------------
-Store your face using "Generating Selfie Training Data using Web-cam" and then run the program "Building Face Classifier" for Face Recognition
+Store your face in Face_Data_Store using "Generating Selfie Training Data using Web-cam" and then run the program "Building Face Classifier" for Face Recognition
 Or
 Directly run the program "Face Swap" for swapping your face with another person😉
